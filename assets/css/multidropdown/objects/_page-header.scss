@@ -1,0 +1,26 @@
+@if $use-page-header == true {
+
+/*------------------------------------*\
+    PAGE HEADER
+\*------------------------------------*/
+/*
+ * Header for the main page template
+ */
+
+.page-header .multi-dropdown {
+	li a {
+		padding: $quarter-spacing-unit;
+		background-color: $brand-color-2;
+	}
+	
+	ul {
+		background-color: $brand-color-2;
+	}
+	
+	ul li a {
+		background-color: transparent;
+		padding: $quarter-spacing-unit;
+	}
+}
+
+}
