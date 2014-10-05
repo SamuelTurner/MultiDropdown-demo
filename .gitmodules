@@ -1,15 +1,15 @@
 [submodule "assets/SamuelTurnerUI"]
 	path = assets/SamuelTurnerUI
-	url = git@github.com:SamuelTurner/SamuelTurnerUI.git
+	url = https://github.com/SamuelTurner/SamuelTurnerUI.git
 [submodule "assets/SimpleJSMinifier"]
 	path = assets/SimpleJSMinifier
-	url = git@github.com:SamuelTurner/SimpleJSMinifier.git
+	url = https://github.com/SamuelTurner/SimpleJSMinifier.git
 [submodule "assets/Clingy-Footer"]
 	path = assets/Clingy-Footer
-	url = git@github.com:SamuelTurner/Clingy-Footer.git
+	url = https://github.com/SamuelTurner/Clingy-Footer.git
 [submodule "assets/MultiDropdown"]
 	path = assets/MultiDropdown
-	url = git@github.com:SamuelTurner/MultiDropdown.git
+	url = https://github.com/SamuelTurner/MultiDropdown.git
 [submodule "assets/inuit.css"]
 	path = assets/inuit.css
 	url = https://github.com/csswizardry/inuit.css.git
